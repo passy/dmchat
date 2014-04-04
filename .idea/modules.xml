@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DMChat.iml" filepath="$PROJECT_DIR$/DMChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dmchat/dmchat.iml" filepath="$PROJECT_DIR$/dmchat/dmchat.iml" />
+    </modules>
+  </component>
+</project>
+
