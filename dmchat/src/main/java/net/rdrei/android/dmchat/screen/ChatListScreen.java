@@ -28,7 +28,7 @@ public class ChatListScreen implements Blueprint {
 	}
 
 	@dagger.Module(injects = ChatListView.class, addsTo = MainBlueprint.Module.class)
-	private class Module {
+	static class Module {
 	}
 
 	@Singleton
